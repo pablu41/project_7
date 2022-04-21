@@ -1,0 +1,12 @@
+img.card-img-top{
+   width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    right: 40px;
+}
+h1{
+    color: rgb(107, 128, 0);
+}
+h4{
+    color:brown;
+}
